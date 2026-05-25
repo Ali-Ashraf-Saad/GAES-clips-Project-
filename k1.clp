@@ -2,7 +2,7 @@
 (slot name)
 (slot age)
 (slot eye-color)
-)
+) ; add something
 ;(set-fact-duplication TRUE)
 (assert (person 
 (name "Franz")
